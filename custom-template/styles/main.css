@@ -1,0 +1,25 @@
+/* for azure notebooks */
+.aznb {
+    border-color: lightgrey;
+    border-style: solid;
+    border-width: 1px;
+    height: 90%;
+  }
+.aznbtitle {  
+  background-color: lightblue; 
+  text-align: center;    
+  font-weight: 500; 
+  padding: .9em;
+}
+.toptitle {
+  border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+}
+.bottomtitle {
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+.aznbtitle a.btn.pull-right {
+    margin-top: -7px; 
+}
+
